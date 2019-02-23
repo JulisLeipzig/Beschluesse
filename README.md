@@ -9,12 +9,7 @@ Alle Dateien sind in GitHub gestyltem Markdown verfasst um einen einfachen Onlin
 + Packages:
 * https://atom.io/packages/language-gfm-enhanced
 
-```python {.line-numbers}
-Stell dir vor, dies wäre der Antragstext
-asdasd
-```
-
-```python {.lineno}
+```text {.line-numbers}
 Stell dir vor, dies wäre der Antragstext
 asdasd
 ```
