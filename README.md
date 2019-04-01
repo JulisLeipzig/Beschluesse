@@ -11,16 +11,6 @@ M: Monat
 
 X: veranstaltung (KK-Kreiskongress)
 
+Anträge können mit den Vorlagen verfasst werden, dabei sollte sich beim Format an dem Muster orientiert werden.
 
-Alle Dateien sind in GitHub gestyltem Markdown verfasst um einen einfachen Onlinekatalog mit einfacher Einsicht zu ermöglichen.
-
-# Benötigte Software
-
-* Atom
-+ Packages:
-* https://atom.io/packages/language-gfm-enhanced
-
-```text {.line-numbers}
-Stell dir vor, dies wäre der Antragstext
-asdasd
-```
+Fertige Anträge bitte an programmatik [at] julis-leipzig.de senden
